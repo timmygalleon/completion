@@ -69,7 +69,6 @@ $result3 = mysqli_num_rows($query3);
 <html lang="en" dir="ltr">
   <head>
     <meta charset="UTF-8">
-    <title> Drop Down Sidebar Menu | CodingLab </title>
     <link rel="stylesheet" href="main.css">
     <link rel="stylesheet" href="css/enrolled.css">
     <link href='https://unpkg.com/boxicons@2.0.7/css/boxicons.min.css' rel='stylesheet'>
