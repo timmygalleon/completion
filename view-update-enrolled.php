@@ -300,12 +300,12 @@ form label {
 
       <div class="input-field">
         <label>Student ID</label>
-        <input type="text" name="studentID" placeholder="Course Code" value="<?php echo $row['StudentID']; ?>" readonly>
+        <input type="text" name="studentID" placeholder="Student ID" value="<?php echo $row['StudentID']; ?>" readonly>
       </div>
 
       <div class="input-field">
         <label>Course ID</label>
-        <input type="text" name="courseID" placeholder="Credits" value="<?php echo $row['CourseID']; ?>" readonly>
+        <input type="text" name="courseID" placeholder="Course ID" value="<?php echo $row['CourseID']; ?>" readonly>
       </div>
 
       <div class="input-field">
@@ -315,7 +315,7 @@ form label {
 
       <div class="input-field">
         <label>Grade</label>
-        <input type="number" name="grade" placeholder="Credits" value="<?php echo $row['Grade']; ?>">
+        <input type="number" name="grade" placeholder="Grade" value="<?php echo $row['Grade']; ?>">
       </div>
 
 

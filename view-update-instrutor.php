@@ -296,22 +296,22 @@ form label {
 
       <div class="input-field">
         <label>First Name</label>
-        <input type="text" name="fname" placeholder="Course Code" value="<?php echo $row['FirstName']; ?>">
+        <input type="text" name="fname" placeholder="Firs Name" value="<?php echo $row['FirstName']; ?>">
       </div>
 
       <div class="input-field">
         <label>Last Name</label>
-        <input type="text" name="lname" placeholder="Credits" value="<?php echo $row['LastName']; ?>">
+        <input type="text" name="lname" placeholder="Last Name" value="<?php echo $row['LastName']; ?>">
       </div>
 
       <div class="input-field">
         <label>Email</label>
-        <input type="text" name="email" placeholder="Course Code" value="<?php echo $row['Email']; ?>">
+        <input type="text" name="email" placeholder="Email" value="<?php echo $row['Email']; ?>">
       </div>
 
       <div class="input-field">
         <label>Phone</label>
-        <input type="text" name="contact" placeholder="Credits" value="<?php echo $row['Phone']; ?>">
+        <input type="text" name="contact" placeholder="Phone" value="<?php echo $row['Phone']; ?>">
       </div>
 
 
